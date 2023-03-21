@@ -238,26 +238,6 @@ turtle.done()
 </p>
 
 
->  Espiral Quadrado
-```javascript
-
-import turtle
-
-turtle.pensize(5)
-
-for i in range(0,500,20):
-    turtle.forward(i)
-    turtle.left(90)
-
-turtle.Screen().exitonclick()
-
-```
-<!--Target-->
-<p align="center">
-<img src="img/espiral-quadrado.PNG"><img>
-</p>
-
-
 >  Estrela Colorida
 ```javascript
 
