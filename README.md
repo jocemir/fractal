@@ -45,11 +45,13 @@ turtle.done()
 ```
 <!--Target-->
 <p align="center">
+
 <img src="img/arv.PNG"><img>
 </p>
 
 >  Meu Fractal agora usando  "for" para gerar um quadrado ao invés de um triângulo como no floco de neve
 ```javascript
+
 import time
 import turtle
 
