@@ -233,4 +233,51 @@ turtle.done()
 <img src="img/triangulo-espiral.gif"><img>
 </p>
 
+
+>  Espiral Quadrado
+```javascript
+
+import turtle
+
+turtle.pensize(5)
+
+for i in range(0,500,20):
+    turtle.forward(i)
+    turtle.left(90)
+
+turtle.Screen().exitonclick()
+
+```
+<!--Target-->
+<p align="center">
+<img src="img/espiral-quadrado.PNG"><img>
+</p>
+
+
+>  Estrela Colorida
+```javascript
+
+import turtle
+
+Screen = turtle.Turtle()
+cores = ['red', 'green', 'blue', 'yellow', 'black']
+
+turtle.pensize(15)
+
+turtle.penup()
+turtle.setpos(-90,30)
+turtle.pendown()
+for i in range(5):
+    turtle.pencolor(cores[i])
+    turtle.forward(200)
+    turtle.right(144)
+
+turtle.done()
+
+```
+<!--Target-->
+<p align="center">
+<img src="img/estrela.gif"><img>
+</p>
+
 ## Feliz 2023 :)
