@@ -277,7 +277,7 @@ turtle.done()
 ```
 <!--Target-->
 <p align="center">
-<img src="img/estrela.gif"><img>
+<img src="img/estrela.PNG"><img>
 </p>
 
 ## Feliz 2023 :)
