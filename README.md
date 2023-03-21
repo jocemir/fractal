@@ -9,7 +9,7 @@
 <p align="justify">
 Para iniciar precisamos instalar a biblioteca chamada Python Turtle pelo Python Packets do Pycharm
 </p>
-#### Aqui estão alguns exemplos de Fractal 
+ Aqui estão alguns exemplos de Fractal 
 
 >  Fractal de uma Árvore Colorida
 ```javascript
@@ -45,7 +45,7 @@ turtle.done()
 ```
 <!--Target-->
 <p align="center">
-<img src="img/arvore.PNG"><img>
+<img src="img/arv.PNG"><img>
 </p>
 
 >  Meu Fractal agora usando  "for" para gerar um quadrado ao invés de um triângulo como no floco de neve
