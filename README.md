@@ -9,9 +9,13 @@
 <p align="justify">
 Para iniciar precisamos instalar a biblioteca chamada Python Turtle pelo Python Packets do Pycharm
 </p>
- Aqui estão alguns exemplos de Fractal 
+ 
 
->  Fractal de uma Árvore Colorida
+###  Aqui estão alguns exemplos de Fractal
+<p align="justify">
+Este código gera um fractal conhecido como Triângulo de Sierpinski, que consiste em um triângulo equilátero dividido em quatro triângulos menores, que por sua vez são novamente divididos em quatro triângulos ainda menores, e assim por diante. O número de divisões é controlado pela variável "generation".
+</p>
+
 ```javascript
 import turtle
 
